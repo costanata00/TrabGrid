@@ -192,7 +192,7 @@ textarea {
 @media (max-width: 768px) {
     .Galeria {
         grid-template-columns: repeat(2, 1fr);
-        grid-template-rows: repeat(3, 2fr);
+        grid-template-rows: repeat(4, 2fr);
         width: 90vw;
         padding-bottom: 30px;
     }
@@ -223,5 +223,3 @@ textarea {
         grid-row: 3 / 4;
     }
 }
-
-
